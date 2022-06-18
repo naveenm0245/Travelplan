@@ -210,7 +210,7 @@ function printCities (maxSequence){
 console.log('Minimum Distance is -> ', minDistance, "KMs");
 printCities(minSequence);
 
-//Bonos part start here...
+//Bonous part start here...
 
 let maxDistance = 0;
 let maxSequence = [];
